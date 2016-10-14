@@ -1,0 +1,19 @@
+body{
+background-image: url("../bosspika.jpg");
+ background-size: 150px 500px;
+
+
+}
+
+me{
+
+display: block;
+
+padding-top: 10px;
+
+border-color:purple;
+
+
+
+
+}
